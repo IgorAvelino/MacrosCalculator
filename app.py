@@ -334,9 +334,9 @@ def show_results():
     print(f"""╔═══════════ ◆ \033[32m{MEASUREMENTS['name'].upper()}\'s MACROS\033[0;0;0m ◆ ═══════════╗
 ║{' ' * (37 + len(MEASUREMENTS['name']))}║
 ║  Calories Intake: \033[33m{MEASUREMENTS['cal_itk']:4.0f} Kcal\033[0;0;0m{' ' * (9 + len(MEASUREMENTS['name']))}║
-║  \t\t  Proteins: \033[32m{MEASUREMENTS['pro']:3.0f}g \033[33m({MEASUREMENTS['pro_c']:4.0f} Kcal)\033[0;0;0m{' ' * (2 + len(MEASUREMENTS['name']))}║
-║  \t\t\t  Fats: \033[32m{MEASUREMENTS['gor']:3.0f}g\033[0;0;0m \033[33m({MEASUREMENTS['gor_c']:4.0f} Kcal)\033[0;0;0m{' ' * (2 + len(MEASUREMENTS['name']))}║
-║  \t Carbohydrates: \033[32m{MEASUREMENTS['carb']:3.0f}g\033[0;0;0m \033[33m({MEASUREMENTS['carb_c']:4.0f} Kcal)\033[0;0;0m{' ' * (2 + len(MEASUREMENTS['name']))}║
+║         Proteins: \033[32m{MEASUREMENTS['pro']:3.0f}g \033[33m({MEASUREMENTS['pro_c']:4.0f} Kcal)\033[0;0;0m{' ' * (2 + len(MEASUREMENTS['name']))}║
+║             Fats: \033[32m{MEASUREMENTS['gor']:3.0f}g\033[0;0;0m \033[33m({MEASUREMENTS['gor_c']:4.0f} Kcal)\033[0;0;0m{' ' * (2 + len(MEASUREMENTS['name']))}║
+║    Carbohydrates: \033[32m{MEASUREMENTS['carb']:3.0f}g\033[0;0;0m \033[33m({MEASUREMENTS['carb_c']:4.0f} Kcal)\033[0;0;0m{' ' * (2 + len(MEASUREMENTS['name']))}║
 ╚{'═' * (37 + len(MEASUREMENTS['name']))}╝
 """)
     print("""\033[31m    __  ___                              ______      __           __      __            
