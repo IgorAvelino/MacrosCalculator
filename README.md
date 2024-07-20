@@ -32,7 +32,7 @@ Calculate the macros you need to eat (fats, proteins and carbohydrates) based on
 ```
 
 ## _Demostration_
-- You can run the code in your browser without installation here: https://www.online-python.com/K4zm8he7g5
+- You can run the code in your browser without installation here: https://www.online-python.com/0o83f7z6Fw
 
 - Here is an example of my calculated macros
 <img src="https://github.com/user-attachments/assets/e6b771a2-5c33-4ffb-b744-54e7db493cfb">
