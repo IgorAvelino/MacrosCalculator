@@ -13,8 +13,14 @@ Calculate the macros you need to eat (fats, proteins and carbohydrates) based on
   <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square">
 </p>
 
+## _Demostration_
+- You can run the code in your browser without any installation here: https://www.online-python.com/UGArpW9C6H
+
+- Here is an example of my calculated macros
+<img src="https://github.com/user-attachments/assets/e6b771a2-5c33-4ffb-b744-54e7db493cfb">
+
 ## _Instalation_
-- First of all, you need [Python3](https://www.python.org/downloads/)
+- If you want to install, you need [Python3](https://www.python.org/downloads/)
 - After this, clone the repository:
 ```bash
   git clone https://github.com/IgorAvelino/MacrosCalculator
@@ -30,12 +36,6 @@ Calculate the macros you need to eat (fats, proteins and carbohydrates) based on
 ```bash
     py app.py
 ```
-
-## _Demostration_
-- You can run the code in your browser without installation here: https://www.online-python.com/0o83f7z6Fw
-
-- Here is an example of my calculated macros
-<img src="https://github.com/user-attachments/assets/e6b771a2-5c33-4ffb-b744-54e7db493cfb">
 
 ## _Contact Me!_
 _For any suggestions for changes or bugs found, please contact me!_ <br>
