@@ -13,7 +13,7 @@ Calculate the macros you need to eat (fats, proteins and carbohydrates) based on
   <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square">
 </p>
 
-## _Demostration_
+## _How to Use_
 - You can run the code in your browser without any installation here: https://www.online-python.com/UGArpW9C6H
 
 - Here is an example of my calculated macros
